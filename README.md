@@ -1,2 +1,5 @@
-# demoaniket
-this is to show how to bring in code from some other repostiry
+# starter-web
+This is a demo starter web project
+For demo purposes
+
+this is noted
